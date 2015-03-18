@@ -1,2 +1,2 @@
 # Project Euler
-Løysingar av problemstillingar frå projectEuler
+Løysingar av projectEuler-problemstillingar.
